@@ -57,37 +57,6 @@
 
 ---
 
-### 🚀 Machine Learning Project Cards
-
-<p align="center">
-  <a href="https://github.com/Danish-2003/AI-Attendance-System" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danish-2003&repo=AI-Attendance-System&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Danish-2003/BookRecommendationSystem" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danish-2003&repo=BookRecommendationSystem&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Danish-2003/HireMate" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danish-2003&repo=HireMate&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Danish-2003/ML-Playground" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danish-2003&repo=ML-Playground&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Danish-2003&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danish-2003&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 👀 Visitor Counter
 
 <p align="center">
