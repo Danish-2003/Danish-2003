@@ -1,83 +1,117 @@
-<h1 align="center">Hi 👋, I'm Mohammad Danish</h1>
-<h3 align="center">Machine Learning • Data Science • Full Stack Development • Apex & Salesforce</h3>
+<!-- ======= PROFILE BANNER ======= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Danish-2003/Danish-2003/main/banner.png" alt="Mohammad Danish Banner" width="100%"/>
+</p>
+
+<!-- ======= PROFILE PICTURE ======= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Danish-2003/Danish-2003/main/profile.png" alt="Mohammad Danish Profile" width="200" style="border-radius:50%"/>
+</p>
+
+<h1 align="center">👋 Hi, I'm Mohammad Danish</h1>
+<h3 align="center">Machine Learning • Data Science • Full Stack Developer • Apex & Salesforce</h3>
 
 ---
 
-### 👨‍💻 About Me
+### 🔍 About Me
 
-- 💻 I’m a **Machine Learning & Full Stack Developer**
-- 🔭 Currently working on: **AI-based attendance & facial recognition systems**
-- 🌱 Learning deeper: **Data Science, MLOps, and Salesforce Apex**
-- 💬 Ask me about: **Python, Django, Flask, ML, AI, Apex, Salesforce**
-- ⚡ Fun fact: *I break things to learn how they work 😎*
+- 🤖 Working on **AI-powered attendance & face recognition systems**
+- 🌱 Exploring **Data Science, MLOps & Salesforce Apex**
+- 🚀 Passionate about **building ML + full-stack projects**
+- 💬 Ask me about **Python, Django, Flask, ML, Apex & Salesforce**
+- 🎯 Mission: *solve real-world problems using AI + software engineering*
 
 ---
 
-### 🚀 Tech Stack
+### 🛠️ Tech & Tools
 
 #### **Languages**
-`Python` `JavaScript` `Apex` `SQL`  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Apex](https://img.shields.io/badge/-Apex-00A1E0?logo=salesforce&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-025E8C?logo=sqlite&logoColor=white)
 
-#### **Machine Learning & Data**
-`TensorFlow` `DeepFace` `NumPy` `Pandas` `Scikit-Learn` `OpenCV`  
+#### **Machine Learning / Data Science**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![DeepFace](https://img.shields.io/badge/-DeepFace-000000)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white)
 
-#### **Backend / Full Stack**
-`Django` `Flask` `REST APIs` `PostgreSQL` `SQLite`
-
-#### **Frontend**
-`HTML5` `CSS3` `Bootstrap`
+#### **Backend / Full-Stack**
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST_APIs-ff6f00?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-07405E?logo=sqlite&logoColor=white)
 
 #### **Salesforce**
-`Apex` `Visualforce` `Lightning Components (LWC)` `Salesforce CRM`
-
----
-
-### 🧠 What I'm Focused On Now
-
-- 🤖 **Face recognition & attendance automation**
-- 🧮 **Machine Learning pipelines & Data Science**
-- 🌐 **Full Stack apps using Django + Flask**
-- ☁ **Enterprise CRM apps using Apex & Salesforce**
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white)
 
 ---
 
 ### 📂 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **AI Attendance System** | Marks attendance using facial recognition & ML | Python, DeepFace, Django |
-| **Book Recommendation System** | Suggests books using ML based on content | Python, ML, Flask |
-| **HireMate (HR Helper)** | Matches resumes to job descriptions using LLMs | Django, ML, Generative AI |
-| **Real-time Face Detection** | Detects faces through webcam & marks attendance | Python, OpenCV, DeepFace |
-
-> 🔗 *I can add links once you share your repo URLs — just tell me!*
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **AI Attendance System** | Face recognition-based attendance | Python · DeepFace · Django | 🔗 coming soon |
+| **Book Recommendation System** | ML-based book suggestions | Python · ML · Flask | 🔗 coming soon |
+| **HireMate** | Job-fit email generation using LLMs | Django · ML · Mistral | 🔗 coming soon |
 
 ---
 
-### 📊 GitHub Statistics
+### 🚀 Machine Learning Project Cards
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danish-2003&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danish-2003&layout=compact&theme=tokyonight" alt="langs" />
+  <a href="https://github.com/Danish-2003/AI-Attendance-System" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danish-2003&repo=AI-Attendance-System&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Danish-2003/BookRecommendationSystem" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danish-2003&repo=BookRecommendationSystem&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Danish-2003/HireMate" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danish-2003&repo=HireMate&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Danish-2003/ML-Playground" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danish-2003&repo=ML-Playground&theme=tokyonight" />
+  </a>
 </p>
 
 ---
 
-### 🤝 Connect With Me
+### 📊 GitHub Stats
 
-<p align="left">
-<a href="https://www.linkedin.com/in/yourprofile" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Danish-2003&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danish-2003&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### ✨ Quote That Drives Me
+### 👀 Visitor Counter
 
-> *“First solve the problem, then write the code.”* — **John Johnson**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Danish-2003&style=for-the-badge" />
+</p>
 
 ---
 
-### 🏁 Final Line
+### 🐍 Contribution Snake
 
-🔥 *I build things → break things → learn things → build better things again.*  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Danish-2003/Danish-2003/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/mohd-danish-aaa9a722a/
+- Email: muhammaddanishhh96@gmail.com
+
+---
+
+> _"First solve the problem, then write the code."_ — **John Johnson**
