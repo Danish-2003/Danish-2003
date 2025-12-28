@@ -4,9 +4,6 @@
 </p>
 
 <!-- ======= PROFILE PICTURE ======= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Danish-2003/Danish-2003/main/profile.png" alt="Mohammad Danish Profile" width="200" style="border-radius:50%"/>
-</p>
 
 <h1 align="center">👋 Hi, I'm Mohammad Danish</h1>
 <h3 align="center">Machine Learning • Data Science • Full Stack Developer • Apex & Salesforce</h3>
